@@ -12,4 +12,4 @@
 - Configuration of the percentage taken by the launderer on the client side
 - Optimization 0.01 ms
 - Lib: RageUI
-- For any Yatox # 3203 support
+- For any question Yatox#3203
