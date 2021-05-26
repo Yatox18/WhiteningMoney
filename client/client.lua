@@ -104,7 +104,7 @@ CreateThread(function()
                 end                
             elseif #(pCoords - v.pos) < 1.3 then
                 spam = false 
-                LaundererMenu.Closed = function()  
+                LaundererMenu.Closed()  
             end
         end
         if spam then
