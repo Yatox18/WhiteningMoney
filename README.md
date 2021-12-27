@@ -5,14 +5,14 @@
 - Configuration du pourcentage pris par le blanchisseur côté client
 - Optimisation 0.01 ms
 - Lib : RageUI
-- Pour tout support Yatox#3203
+- Pour tout support Yatox#8403
 
 # EN
 - Script to launder dirty money on FiveM
 - Configuration of the percentage taken by the launderer on the client side
 - Optimization 0.01 ms
 - Lib: RageUI
-- For any question Yatox#3203
+- For any question Yatox#8403
 
 # Preview
 - https://streamable.com/6zk1vc
